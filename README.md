@@ -1,7 +1,5 @@
 # Resume Management
 
-## YouTube Tutorial
-https://www.youtube.com/watch?v=AiwzQMupPsU
 
 ## Solution Technologies
 
@@ -11,15 +9,8 @@ https://www.youtube.com/watch?v=AiwzQMupPsU
 -  MS SQL SERVER
 -  Entity Framework Core
 
-## Solution Architecture
 
-<img src="./resume-management.jpg" />
 
-## Database Structure
-
-<img src="./DB.png" />
-
-## We will learn these topics together
 
 ### On Backend project
 
